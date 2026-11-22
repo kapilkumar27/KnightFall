@@ -1,0 +1,26 @@
+{
+  "name": "knightfall",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "An educational chess engine and interactive search visualization platform built with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilkumar27/KnightFall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilkumar27/KnightFall/issues"
+  },
+  "homepage": "https://github.com/kapilkumar27/KnightFall#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.1"
+  }
+}
